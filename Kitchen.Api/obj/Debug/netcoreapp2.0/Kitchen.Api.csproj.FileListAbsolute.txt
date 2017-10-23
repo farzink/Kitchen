@@ -1,0 +1,42 @@
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.deps.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.runtimeconfig.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.runtimeconfig.dev.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Data.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Repository.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CoreService.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Data.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Repository.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.csprojResolveAssemblyReference.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.csproj.CoreCompileInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.AssemblyInfoInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.AssemblyInfo.cs
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.deps.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.runtimeconfig.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.runtimeconfig.dev.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Api.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Data.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Repository.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.CoreService.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Data.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\bin\Debug\netcoreapp2.0\Kitchen.Repository.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.csprojResolveAssemblyReference.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.csproj.CoreCompileInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.AssemblyInfoInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.AssemblyInfo.cs
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.Api\obj\Debug\netcoreapp2.0\Kitchen.Api.pdb

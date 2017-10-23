@@ -1,0 +1,30 @@
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.deps.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Data.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Repository.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Repository.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Data.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.csprojResolveAssemblyReference.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.csproj.CoreCompileInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.AssemblyInfoInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.AssemblyInfo.cs
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.deps.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CoreService.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Data.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Repository.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Repository.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\bin\Debug\netcoreapp2.0\Kitchen.Data.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.csprojResolveAssemblyReference.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.csproj.CoreCompileInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.AssemblyInfoInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.AssemblyInfo.cs
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CoreService\obj\Debug\netcoreapp2.0\Kitchen.CoreService.pdb

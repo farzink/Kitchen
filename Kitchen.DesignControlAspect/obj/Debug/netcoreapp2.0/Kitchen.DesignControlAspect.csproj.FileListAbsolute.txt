@@ -1,0 +1,22 @@
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.deps.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.csprojResolveAssemblyReference.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.csproj.CoreCompileInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.AssemblyInfoInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.AssemblyInfo.cs
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.deps.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.csprojResolveAssemblyReference.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.csproj.CoreCompileInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.AssemblyInfoInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.AssemblyInfo.cs
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.DesignControlAspect\obj\Debug\netcoreapp2.0\Kitchen.DesignControlAspect.pdb

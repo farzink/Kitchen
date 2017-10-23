@@ -1,0 +1,17 @@
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.deps.json
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.csproj.CoreCompileInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.AssemblyInfoInputs.cache
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.AssemblyInfo.cs
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.deps.json
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\bin\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.csprojResolveAssemblyReference.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.csproj.CoreCompileInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.AssemblyInfoInputs.cache
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.AssemblyInfo.cs
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.dll
+C:\Users\f-project\Documents\SCM-WORKSPACE\Kitchen\Kitchen.CommonModel\obj\Debug\netcoreapp2.0\Kitchen.CommonModel.pdb

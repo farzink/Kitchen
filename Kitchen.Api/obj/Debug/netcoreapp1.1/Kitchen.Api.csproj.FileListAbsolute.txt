@@ -1,0 +1,5 @@
+c:\users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp1.1\Kitchen.Api.deps.json
+c:\users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp1.1\Kitchen.Api.runtimeconfig.json
+c:\users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\bin\Debug\netcoreapp1.1\Kitchen.Api.runtimeconfig.dev.json
+c:\users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp1.1\Kitchen.Api.csprojResolveAssemblyReference.cache
+c:\users\f-project\documents\visual studio 2017\Projects\Kitchen\Kitchen.Api\obj\Debug\netcoreapp1.1\Kitchen.Api.AssemblyInfo.cs
