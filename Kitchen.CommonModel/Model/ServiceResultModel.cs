@@ -12,7 +12,7 @@ namespace Kitchen.CommonModel.Model
 
         public ServiceResultModel(int version)
         {
-            this.Version = version;
+            this.Version = version;            
         }
         public T Item { get; set; }
         public string Message { get; set; }

@@ -5593,7 +5593,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\f-project\\.nuget\\packages\\": {},
+    "C:\\Users\\shaah\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5602,17 +5602,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.CoreService\\Kitchen.CoreService.csproj",
+      "projectUniqueName": "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.CoreService\\Kitchen.CoreService.csproj",
       "projectName": "Kitchen.CoreService",
-      "projectPath": "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.CoreService\\Kitchen.CoreService.csproj",
-      "packagesPath": "C:\\Users\\f-project\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.CoreService\\obj\\",
+      "projectPath": "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.CoreService\\Kitchen.CoreService.csproj",
+      "packagesPath": "C:\\Users\\shaah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.CoreService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\f-project\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shaah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5625,11 +5625,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.CommonModel\\Kitchen.CommonModel.csproj": {
-              "projectPath": "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.CommonModel\\Kitchen.CommonModel.csproj"
+            "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.CommonModel\\Kitchen.CommonModel.csproj": {
+              "projectPath": "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.CommonModel\\Kitchen.CommonModel.csproj"
             },
-            "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.Repository\\Kitchen.Repository.csproj": {
-              "projectPath": "C:\\Users\\f-project\\Documents\\SCM-WORKSPACE\\Kitchen\\Kitchen.Repository\\Kitchen.Repository.csproj"
+            "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.Repository\\Kitchen.Repository.csproj": {
+              "projectPath": "C:\\Users\\shaah\\Source\\Repos\\Kitchen\\Kitchen.Repository\\Kitchen.Repository.csproj"
             }
           }
         }

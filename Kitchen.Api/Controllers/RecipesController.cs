@@ -22,7 +22,7 @@ namespace Kitchen.Api.Controllers
         }
 
         [AllowAnonymous]
-        [HttpGet("/")]
+        [HttpGet]
         public IActionResult Index()
         {
             ServiceResultModel<int> model = new ServiceResultModel<int>(Version);

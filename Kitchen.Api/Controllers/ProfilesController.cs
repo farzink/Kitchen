@@ -12,6 +12,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc;
 using Newtonsoft.Json;
+using Kitchen.CommonModel.Model;
+using Kitchen.CommonModel.ViewModel.DishCategory;
 
 namespace Kitchen.Api.Controllers
 {
@@ -29,8 +31,20 @@ namespace Kitchen.Api.Controllers
         [HttpGet("settings/data")]
         public async Task<IActionResult> GetData()
         {
+            var result = new ServiceResultModel<ClientConfiguration>(Version);
             try
             {
+                result.Item = new ClientConfiguration();
+                result.Item.DishCategories = new List<DishCategoryViewModel>();
+                result.Item.DishCategories.Add(new DishCategoryViewModel
+                {
+                    Title = "دسر"
+                });
+
+                result.Item.DishCategories.Add(new DishCategoryViewModel
+                {
+                    Title = "غذای اصلی"
+                });
                 var categorories = new[] {"a", "b"};
                 var data = new
                 {
@@ -40,7 +54,8 @@ namespace Kitchen.Api.Controllers
                 {
                     sw.Write(JsonConvert.SerializeObject(data));
                 }
-                return Ok(JsonConvert.SerializeObject(data));
+                //return Ok(JsonConvert.SerializeObject(data));
+                return Ok(result);
             }
             catch (Exception e)
             {
